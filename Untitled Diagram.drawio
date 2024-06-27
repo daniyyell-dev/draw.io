@@ -1,9 +1,192 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T18:42:53.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.5.1" etag="x1y7N-MVWOOF6w0rm3ZX" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T19:22:58.037Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="bYB8fBT1vD2D-q0ohzbK" version="24.5.1" type="github">
   <diagram name="Page-1" id="pxp7qfaBqFWQBgs7-R0P">
-    <mxGraphModel>
+    <mxGraphModel dx="2303" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-4" target="3B0JiuzJLhS6sqnatpeZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-7" value="&lt;div&gt;&lt;b&gt;Memory Injection:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Injecting malicious code into the memory of legitimate processes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="20" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-9" target="3B0JiuzJLhS6sqnatpeZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-9" value="&lt;div&gt;&lt;b&gt;Registry Manipulation:&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Modifying registry keys to run scripts at startup&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-10" target="3B0JiuzJLhS6sqnatpeZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-10" value="&lt;div&gt;&lt;b&gt;Scheduled Tasks:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Creating tasks to execute scripts at specified times&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-11" target="3B0JiuzJLhS6sqnatpeZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-11" value="&lt;div&gt;&lt;b&gt;WMI:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using WMI event subscriptions for persistence&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-12" target="3B0JiuzJLhS6sqnatpeZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-12" value="&lt;b&gt;Privilege Escalation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-13" target="3B0JiuzJLhS6sqnatpeZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-13" value="&lt;div&gt;&lt;b&gt;Exploiting Vulnerabilities:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using exploits to gain higher privileges&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-110" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-14" target="3B0JiuzJLhS6sqnatpeZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-14" value="&lt;div&gt;&lt;b&gt;Token Manipulation:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Stealing or impersonating tokens with tools like&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mimikatz&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="20" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-17" target="3B0JiuzJLhS6sqnatpeZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-5" target="3B0JiuzJLhS6sqnatpeZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-5" value="&lt;b&gt;Execution&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-6" target="3B0JiuzJLhS6sqnatpeZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-6" value="&lt;div&gt;&lt;b&gt;Scripting:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using PowerShell, VBScript, or JavaScript to run commands directly in memory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-7" target="3B0JiuzJLhS6sqnatpeZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-8" target="3B0JiuzJLhS6sqnatpeZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-8" value="&lt;b&gt;Persistence&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-21" target="3B0JiuzJLhS6sqnatpeZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-21" value="&lt;b&gt;Discovery&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-22" target="3B0JiuzJLhS6sqnatpeZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-22" value="&lt;div&gt;&lt;b&gt;Network Scanning:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Identifying other devices and services on the network&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-23" target="3B0JiuzJLhS6sqnatpeZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-23" value="&lt;div&gt;&lt;b&gt;System Information Discovery:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gathering details about the system and its configuration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-24" target="3B0JiuzJLhS6sqnatpeZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-24" value="&lt;b&gt;Lateral Movement&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-25" target="3B0JiuzJLhS6sqnatpeZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-25" value="&lt;div&gt;&lt;b&gt;Remote Services:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using RDP or WMI to access other systems&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="340" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-26" target="3B0JiuzJLhS6sqnatpeZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-26" value="&lt;div&gt;&lt;b&gt;Windows Admin Shares:&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Accessing administrative shares to move files and execute commands&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="500" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-100" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-110" y="-310" width="240" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-100" source="3B0JiuzJLhS6sqnatpeZ-1" target="3B0JiuzJLhS6sqnatpeZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-1" value="&lt;b&gt;Initial Access&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-100">
+          <mxGeometry x="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-100" source="3B0JiuzJLhS6sqnatpeZ-2" target="3B0JiuzJLhS6sqnatpeZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-2" value="&lt;b&gt;Phishing: &lt;/b&gt;&lt;br&gt;Sending emails with malicious links or attachments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-100">
+          <mxGeometry y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-100" source="3B0JiuzJLhS6sqnatpeZ-3" target="3B0JiuzJLhS6sqnatpeZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-3" value="&lt;div&gt;&lt;b&gt;Exploiting Vulnerabilities:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Targeting software vulnerabilities to gain access&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-100">
+          <mxGeometry y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-4" value="&lt;div&gt;&lt;b&gt;Social Engineering:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Tricking users into executing malicious scripts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-100">
+          <mxGeometry y="350" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-103" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="990" y="220" width="300" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-103" source="3B0JiuzJLhS6sqnatpeZ-15" target="3B0JiuzJLhS6sqnatpeZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-15" value="&lt;b&gt;Defence Evasion&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-103">
+          <mxGeometry x="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-103" source="3B0JiuzJLhS6sqnatpeZ-16" target="3B0JiuzJLhS6sqnatpeZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-16" value="Obfuscation: Hiding the true purpose of scripts and commands" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-103">
+          <mxGeometry y="120" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-17" value="Disabling Security Tools: Turning off antivirus and other security measures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-103">
+          <mxGeometry y="280" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-104" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="220" width="300" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-104" source="3B0JiuzJLhS6sqnatpeZ-18" target="3B0JiuzJLhS6sqnatpeZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-18" value="&lt;b&gt;Credential Access&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-104">
+          <mxGeometry x="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-104" source="3B0JiuzJLhS6sqnatpeZ-19" target="3B0JiuzJLhS6sqnatpeZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-19" value="&lt;div&gt;&lt;b&gt;Keylogging:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Recording keystrokes to capture credentials&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-104">
+          <mxGeometry y="160" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-20" value="&lt;div&gt;&lt;b&gt;Credential Dumping:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Extracting passwords and hashes with tools like Mimikatz&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-104">
+          <mxGeometry y="280" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-22" target="3B0JiuzJLhS6sqnatpeZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-20" target="3B0JiuzJLhS6sqnatpeZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-27" target="3B0JiuzJLhS6sqnatpeZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-27" target="3B0JiuzJLhS6sqnatpeZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-27" value="Collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-28" value="&lt;div&gt;Data Staging:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Gathering and staging data for exfiltration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="620" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-29" value="&lt;div&gt;Automated Exfiltration:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sending collected data to a remote C2 server&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="750" width="300" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
