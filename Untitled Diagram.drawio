@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T19:44:47.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="_yrTTytQVgOc-ojoxbgy" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T10:10:55.003Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="kCrLus7tgm_XmfVe-xv9" version="24.5.1" type="github">
   <diagram name="Page-1" id="pxp7qfaBqFWQBgs7-R0P">
-    <mxGraphModel dx="2638" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="3021" dy="2542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,37 +14,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-9" value="&lt;div&gt;&lt;b&gt;Registry Manipulation:&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Modifying registry keys to run scripts at startup&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-110" width="300" height="60" as="geometry" />
+          <mxGeometry x="597" y="-150" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-10" target="3B0JiuzJLhS6sqnatpeZ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-10" value="&lt;div&gt;&lt;b&gt;Scheduled Tasks:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Creating tasks to execute scripts at specified times&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="10" width="300" height="60" as="geometry" />
+          <mxGeometry x="597" y="-40" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-11" target="3B0JiuzJLhS6sqnatpeZ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-11" value="&lt;div&gt;&lt;b&gt;WMI &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using WMI event subscriptions for persistence&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="130" width="300" height="60" as="geometry" />
+          <mxGeometry x="597" y="80" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-12" target="3B0JiuzJLhS6sqnatpeZ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-12" value="&lt;b&gt;Privilege Escalation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-290" width="160" height="60" as="geometry" />
+          <mxGeometry x="986" y="-290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-13" target="3B0JiuzJLhS6sqnatpeZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-13" value="&lt;div&gt;&lt;b&gt;Exploiting Vulnerabilities &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using exploits to gain higher privileges&lt;/div&gt;&lt;div&gt;&lt;span data-hs-cos-type=&quot;rich_text&quot; data-hs-cos-general-type=&quot;meta_field&quot; style=&quot;&quot; class=&quot;hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text&quot; id=&quot;hs_cos_wrapper_post_body&quot;&gt;&quot;Domain Admin Accounts&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="940" y="-110" width="320" height="60" as="geometry" />
+          <mxGeometry x="966" y="-50" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-14" target="3B0JiuzJLhS6sqnatpeZ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-14" value="&lt;div&gt;&lt;b&gt;Token Manipulation &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Stealing or impersonating tokens with tools like&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mimikatz&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="940" y="20" width="320" height="60" as="geometry" />
+          <mxGeometry x="966" y="70" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-17" target="3B0JiuzJLhS6sqnatpeZ-18">
           <mxGeometry relative="1" as="geometry" />
@@ -59,52 +59,54 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-6" value="&lt;div&gt;&lt;b&gt;Scripting:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using PowerShell, VBScript, or JavaScript to run commands directly in memory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-30" width="300" height="60" as="geometry" />
+          <mxGeometry x="200" y="-50" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3B0JiuzJLhS6sqnatpeZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-7" target="3B0JiuzJLhS6sqnatpeZ-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3B0JiuzJLhS6sqnatpeZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="3B0JiuzJLhS6sqnatpeZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="109.99999999999955" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-8" target="3B0JiuzJLhS6sqnatpeZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-8" value="&lt;b&gt;Persistence&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-280" width="120" height="60" as="geometry" />
+          <mxGeometry x="617" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-21" target="3B0JiuzJLhS6sqnatpeZ-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-21" value="&lt;b&gt;Discovery&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="248" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-22" target="3B0JiuzJLhS6sqnatpeZ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-22" value="&lt;div&gt;&lt;b&gt;Network Scanning:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Identifying other devices and services on the network&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="380" width="320" height="60" as="geometry" />
+          <mxGeometry x="180" y="399" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-23" target="3B0JiuzJLhS6sqnatpeZ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-23" value="&lt;div&gt;&lt;b&gt;System Information Discovery:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gathering details about the system and its configuration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="500" width="320" height="60" as="geometry" />
+          <mxGeometry x="180" y="519" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-24" target="3B0JiuzJLhS6sqnatpeZ-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-24" value="&lt;b&gt;Lateral Movement&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="190" width="160" height="60" as="geometry" />
+          <mxGeometry x="-40" y="248" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-25" target="3B0JiuzJLhS6sqnatpeZ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-25" value="&lt;div&gt;&lt;b&gt;Remote Services &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Using RDP or WMI to access other systems&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="340" width="320" height="60" as="geometry" />
+          <mxGeometry x="-240" y="399" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3B0JiuzJLhS6sqnatpeZ-26" target="3B0JiuzJLhS6sqnatpeZ-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-26" value="&lt;div&gt;&lt;b&gt;Windows Admin Shares&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Accessing administrative shares to move files and execute commands&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="530" width="320" height="60" as="geometry" />
+          <mxGeometry x="-240" y="519" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-100" value="" style="group;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-180" y="-270" width="240" height="410" as="geometry" />
@@ -119,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-2" value="&lt;b&gt;Phishing: &lt;/b&gt;&lt;br&gt;Sending emails with malicious links or attachments" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-100">
-          <mxGeometry y="110" width="240" height="60" as="geometry" />
+          <mxGeometry y="120" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-100" source="3B0JiuzJLhS6sqnatpeZ-3" target="3B0JiuzJLhS6sqnatpeZ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +133,7 @@
           <mxGeometry y="350" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-103" value="" style="group;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="990" y="220" width="300" height="340" as="geometry" />
+          <mxGeometry x="990" y="252" width="300" height="340" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-103" source="3B0JiuzJLhS6sqnatpeZ-15" target="3B0JiuzJLhS6sqnatpeZ-16">
           <mxGeometry relative="1" as="geometry" />
@@ -143,19 +145,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-16" value="&lt;div&gt;&lt;b&gt;Obfuscation &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hiding the true purpose of scripts and commands&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-103">
-          <mxGeometry y="120" width="300" height="60" as="geometry" />
+          <mxGeometry y="140" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-17" value="&lt;div&gt;&lt;b&gt;Disabling Security Tools &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Turning off antivirus and other security measures&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-103">
           <mxGeometry y="280" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-104" value="" style="group;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="220" width="300" height="340" as="geometry" />
+          <mxGeometry x="590" y="239" width="300" height="340" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-104" source="3B0JiuzJLhS6sqnatpeZ-18" target="3B0JiuzJLhS6sqnatpeZ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-18" value="&lt;b&gt;Credential Access&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="3B0JiuzJLhS6sqnatpeZ-104">
-          <mxGeometry x="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="70" y="19" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="3B0JiuzJLhS6sqnatpeZ-104" source="3B0JiuzJLhS6sqnatpeZ-19" target="3B0JiuzJLhS6sqnatpeZ-20">
           <mxGeometry relative="1" as="geometry" />
@@ -179,16 +181,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-27" value="&lt;b&gt;Collection&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="731" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-28" value="&lt;div&gt;&lt;b&gt;Data Staging &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gathering and staging data for exfiltration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="620" width="300" height="60" as="geometry" />
+          <mxGeometry x="170" y="691" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-29" value="&lt;div&gt;&lt;b&gt;Automated Exfiltration&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Sending collected data to a remote C2 server&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="750" width="300" height="60" as="geometry" />
+          <mxGeometry x="170" y="821" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-113" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Created: daniyyell&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="650" y="670" width="190" height="40" as="geometry" />
+          <mxGeometry x="650" y="762" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3B0JiuzJLhS6sqnatpeZ-114" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Fileless Malware Workflow: Detailed Steps and Activities&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="40" y="-380" width="810" height="50" as="geometry" />
